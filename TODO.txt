@@ -1,0 +1,11 @@
+TODO
+----
+
+* OmniOS 151030: default python3.5, AttributeError: 'socket' object has no attribute 'sendmsg'
+* FreeBSD 12.0: python27, AttributeError: '_socket.socket' object has no attribute 'sendmsg'
+* FreeBSD 12.0: python27, socket.error: [Errno 65] No route to host -- If try to connect to an ipv4 address with AF_INET6
+* super() py2 compatible issues -> actions/jump
+* Finish docs
+* rst-ize docs
+
+
