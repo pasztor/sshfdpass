@@ -11,6 +11,7 @@ setup(
         author="Gyorgy Pasztor",
         author_email="coruscant0@gmail.com",
         description="Helper script for ProxyUseFDPass option of openssh",
+        long_description_content_type="text/markdown",
         long_description=long_description,
         keywords="ssh openssh proxyusefdpass",
         # PyYAML is not a hard dependency, just a suggestion
@@ -20,7 +21,7 @@ setup(
         project_urls={
             "Bug Tracker": "https://github.com/pasztor/sshfdpass/issues",
             "Documentation": "https://github.com/pasztor/sshfdpass/doc",
-            "Source Code": "https://github.com/paszor/sshfdpass"
+            "Source Code": "https://github.com/pasztor/sshfdpass"
             },
         classifiers=[
             "License :: OSI Approved :: MIT License",
